@@ -1,0 +1,26 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizard.settings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Backend / Node
+node_modules/
+.env
+*.log
+
+# Project specific
+screenshots/  # We want to keep this, but maybe not huge video files
+!screenshots/*.png
+!screenshots/*.jpg

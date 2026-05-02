@@ -62,7 +62,7 @@ Want to see the engineering behind the app? Check out our:
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/NomNom.git
+   git clone https://github.com/Tamore/NomNom.git
    ```
 2. **Setup Supabase**: Create a project and run the scripts in `backend/supabase_schema.sql`.
 3. **Configure API Keys**: Add your `SUPABASE_URL`, `SUPABASE_ANON_KEY`, and `GEMINI_API_KEY` to your `local.properties`.

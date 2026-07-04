@@ -24,3 +24,5 @@ node_modules/
 screenshots/  # We want to keep this, but maybe not huge video files
 !screenshots/*.png
 !screenshots/*.jpg
+
+__pycache__/
